@@ -1,0 +1,5 @@
+CLASS zbp_i_travel_m_dks DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_travel_m_dks.
+ENDCLASS.
+
+CLASS zbp_i_travel_m_dks IMPLEMENTATION.
+ENDCLASS.
